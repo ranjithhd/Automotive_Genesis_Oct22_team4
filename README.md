@@ -127,3 +127,19 @@ To make this long-term transformation to FBS 3 possible at all, the individual f
 
 Video Resource: https://www.youtube.com/watch?v=W9ysHClUpQk
 
+## Day1_activity_3
+#Mercedes-AMG GLC 63 Coupe Becomes 700-HP Superweapon
+
+	The Manhart GLR 700 is based on the Mercedes-AMG GLC 63 S Coupe that features a twin-turbo 4.0-liter V8 producing 503 hp and 516 lb-ft of torque.
+
+	Power is sent to all four wheels via a nine-speed automatic transmission, resulting in a 0-60 mph time of 3.6 seconds and a top speed of 174 mph.
+
+	Manhart ups the power output to an astonishing 707 hp and 668 lb-ft of torque by adding its own turbo performance kit which includes a set of larger turbos, a carbon air intake, a more efficient intercooler, and a transmission upgrade. 
+
+	Gasses are passed through a stainless-steel sport exhaust system and free-flowing downpipes. 
+
+	To keep all that power planted to the ground, Manhart also lowers the car by 1.2 inches and adds a set of 21-inch wheels wrapped in 295/35 ZR21 at the back, and 20-inch wheels at the front.
+
+	Manhart offers numerous exterior styling options, and the one pictured here gets an in-your-face set of gold decals and gold highlights on the wheels, as well as a black radiator grille. 
+
+	 The GLR 700 is customized with a specially crafted Manhart leather interior with individually chosen accents and an Alcantara headliner.
