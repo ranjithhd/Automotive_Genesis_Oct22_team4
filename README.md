@@ -64,7 +64,8 @@ In the version without fallback mode, the driver depresses a simulated brake ped
 
 The complete separation of pedal and pressure generation without fallback mode provides a huge advantage for integration, which is characteristic of real brake-by-wire systems: The brake system no longer has to be mounted directly at a specific location on the firewall in front of the driver to enable mechanical fallback. Instead, an FBS 1 with electronic pedal supports new vehicle concepts involving different vehicle interiors and dimensions, such as the skateboard chassis of electrified vehicles, on which various bodies can be mounted.
  
-The MK C2 is compact and lightweight, powerful, and still highly cost-optimized.
+ ![MKC2](https://user-images.githubusercontent.com/115522470/198206464-b0217e32-73a8-437e-bc0b-67afdf0bcb54.jpg)
+                         The MK C2 is compact and lightweight, powerful, and still highly cost-optimized.
 
 #FBS 2 – The brakes become “semi-dry”
 In today’s brake systems, as well as with FBS 0 and FBS 1 solutions, pressure generation is still fully integrated into the brake system unit. The hydraulics (i.e. the “wet” part of the brake system) transmit the force to the brake calipers of the disk brakes or the drum brakes.
