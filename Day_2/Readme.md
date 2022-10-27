@@ -356,7 +356,7 @@ Under the V-Model, the corresponding testing phase of the development phase is p
 
 The following illustration depicts the different phases in a V-Model of the SDLC.
 
-![V model](https://user-images.githubusercontent.com/115522470/198275150-75988718-036e-4825-
+![V model](https://user-images.githubusercontent.com/115522470/198277069-332b6a07-e541-453b-b8d3-db5b60bf4c01.jpg)
 
 # V-Model - Verification Phases
 There are several Verification phases in the V-Model, each of these are explained in detail below.
