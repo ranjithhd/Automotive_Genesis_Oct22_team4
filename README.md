@@ -11,6 +11,7 @@ Braking systems in passenger vehicles use two primary types of brakes: disc brak
 Below are the functions braking system used in the automotive engine:
 •	A brake system helps to stop vehicles within the smallest possible distance. This is achieved by converting the kinetic energy of the vehicle into heat energy.
 •	It also functions on a mechanical device where motion occurs, the brake is applied to stop it within a short period of time.
+![autmatic brake system](https://user-images.githubusercontent.com/115522470/198206997-a79a78d6-51b4-4059-a27a-29a4df110655.jpg)
 
 # Components of the braking system
 
