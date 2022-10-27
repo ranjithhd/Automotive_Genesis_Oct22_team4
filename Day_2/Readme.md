@@ -762,28 +762,22 @@ The Disadvantages of the Prototyping Model are as follows −
 
 # Features of Volkswagen Polo
 
-|1|| Power Windows|	|Yes|
+| **Sl No** | **Features** | **Status** | 
+| --- | --- | --- |
+| 1 | Power Windows|	Yes|
+| 2| Central Locking|	Yes|
+|3| Fog Lamps|	Yes|
+|4| ABS|	Yes|
 
-| 2| |Central Locking|	|Yes|
-
-|3| |Fog Lamps|	|Yes|
-
-|4|| ABS|	|Yes|
-
-
-# I)	Safety
-
-|5|	|Number of Airbags|                           |2 Airbags|
-
-|6||	Engine Immobilizer | |                         Yes|
-
-|7||	Parking Assistance  |                           Rear sensors with camera|
-
-|8||	Child Safety Locks  ||                          Yes|
-
-|9||	Auto-Dimming Rear-View Mirror|     |Yes|
-
-|10||	Door Ajar Warning   ||                          Yes|
+ I)	Safety
+| **Sl No** | **Features** | **Status** | 
+| --- | --- | --- |
+|5|	Number of Airbags|                           2 Airbags|
+|6|	Engine Immobilizer |                         Yes|
+|7|	Parking Assistance  |                           Rear sensors with camera|
+|8|	Child Safety Locks  |                          Yes|
+|9|	Auto-Dimming Rear-View Mirror     |Yes|
+|10|	Door Ajar Warning   |                          Yes|
 
 8.	Central Locking                                   Yes
 
