@@ -51,6 +51,8 @@ Software Development Life Cycle (SDLC) is a process used by the software industr
 # What is SDLC
 SDLC is a process followed for a software project, within a software organization. It consists of a detailed plan describing how to develop, maintain, replace and alter or enhance specific software. The life cycle defines a methodology for improving the quality of software and the overall development process.
 The following figure is a graphical representation of the various stages of a typical SDLC.
+
+![SDLC](https://user-images.githubusercontent.com/115522470/198274861-94d2e308-9365-4027-bb36-c555f8ca9c5b.jpg)
  
 A typical Software Development Life Cycle consists of the following stages −
 # Stage 1: Planning and Requirement Analysis
@@ -96,6 +98,8 @@ The waterfall Model illustrates the software development process in a linear seq
 Waterfall approach was first SDLC Model to be used widely in Software Engineering to ensure success of the project. In "The Waterfall" approach, the whole process of software development is divided into separate phases. In this Waterfall model, typically, the outcome of one phase acts as the input for the next phase sequentially.
 The following illustration is a representation of the different phases of the Waterfall Model.
  
+ ![Waterflow model](https://user-images.githubusercontent.com/115522470/198274950-fb755348-2c71-4b19-ae67-e6a95c56b2f7.jpg)
+
 The sequential phases in Waterfall model are −
 
 •	Requirement Gathering and analysis − All possible requirements of the system to be developed are captured in this phase and documented in a requirement specification document.
@@ -182,7 +186,9 @@ An iterative life cycle model does not attempt to start with a full specificatio
 Iterative process starts with a simple implementation of a subset of the software requirements and iteratively enhances the evolving versions until the full system is implemented. At each iteration, design modifications are made and new functional capabilities are added. The basic idea behind this method is to develop a system through repeated cycles (iterative) and in smaller portions at a time (incremental).
 
 The following illustration is a representation of the Iterative and Incremental model −
- 
+
+![Iterative model](https://user-images.githubusercontent.com/115522470/198275008-5ed83eb7-2352-4eb3-9c92-a9b02133adbe.jpg)
+
 Iterative and Incremental development is a combination of both iterative design or iterative method and incremental build model for development. "During software development, more than one iteration of the software development cycle may be in progress at the same time." This process may be described as an "evolutionary acquisition" or "incremental build" approach."
 
 In this incremental model, the whole requirement is divided into various builds. During each iteration, the development module goes through the requirements, design, implementation and testing phases. Each subsequent release of the module adds function to the previous release. The process continues till the complete system is ready as per the requirement.
@@ -282,8 +288,11 @@ Then in the subsequent spirals with higher clarity on requirements and design de
 
 # Evaluation and Risk Analysis
 Risk Analysis includes identifying, estimating and monitoring the technical feasibility and management risks, such as schedule slippage and cost overrun. After testing the build, at the end of first iteration, the customer evaluates the software and provides feedback.
+
 The following illustration is a representation of the Spiral Model, listing the activities in each phase.
- 
+
+![spiral model](https://user-images.githubusercontent.com/115522470/198275090-457c0154-593a-4f9d-af82-0081f735bc80.png)
+
 Based on the customer evaluation, the software development process enters the next iteration and subsequently follows the linear approach to implement the feedback suggested by the customer. The process of iterations along the spiral continues throughout the life of the software.
 
 # Spiral Model Application
@@ -344,8 +353,11 @@ The V-Model is an extension of the waterfall model and is based on the associati
 
 # V-Model - Design
 Under the V-Model, the corresponding testing phase of the development phase is planned in parallel. So, there are Verification phases on one side of the ‘V’ and Validation phases on the other side. The Coding Phase joins the two sides of the V-Model.
+
 The following illustration depicts the different phases in a V-Model of the SDLC.
- 
+
+![V model](https://user-images.githubusercontent.com/115522470/198275150-75988718-036e-4825-
+
 # V-Model - Verification Phases
 There are several Verification phases in the V-Model, each of these are explained in detail below.
 
@@ -474,7 +486,9 @@ Agile model believes that every project needs to be handled differently and the 
 Iterative approach is taken and working software build is delivered after each iteration. Each build is incremental in terms of features; the final build holds all the features required by the customer.
 
 Here is a graphical illustration of the Agile Model −
- 
+
+![agile model](https://user-images.githubusercontent.com/115522470/198275200-b8eb4c8a-b3d1-468f-b0d9-9c765fbdf2a3.jpg)
+
 The Agile thought process had started early in the software development and started becoming popular with time due to its flexibility and adaptability.
 The most popular Agile methods include Rational Unified Process (1994), Scrum (1995), Crystal Clear, Extreme Programming (1996), Adaptive Software Development, Feature Driven Development, and Dynamic Systems Development Method (DSDM) (1995). These are now collectively referred to as Agile Methodologies, after the Agile Manifesto was published in 2001.
 
@@ -581,7 +595,10 @@ The overall testing time is reduced in the RAD model as the prototypes are indep
 
 
 The following illustration describes the RAD Model in detail.
- 
+
+![RAD MODEL](https://user-images.githubusercontent.com/115522470/198275258-d0a3fcc1-c6e4-41ed-b06d-61b631153284.jpg)
+a032-2c9e16fd3f8e.jpg)
+
 # RAD Model Vs Traditional SDLC
 The traditional SDLC follows a rigid process models with high emphasis on requirement analysis and gathering before the coding starts. It puts pressure on the customer to sign off the requirements before the project starts and the customer doesn’t get the feel of the product as there is no working build available for a long time.
 The customer may need some changes after he gets to see the software. However, the change process is quite rigid and it may not be feasible to incorporate major changes in the product in the traditional SDLC.
