@@ -191,14 +191,14 @@ At Level 1, the lowest rung of automation, a vehicle has at least one driver sup
 Adaptive cruise control is an example of a Level 1 driver assistance technology. It maintains a safe following distance between your vehicle and traffic ahead without any intervention by the driver. A steering assistance feature, such as lane-centering assistance or lane-following assistance, would also qualify as Level 1 autonomy. 
 However, a vehicle with both of these features working together qualifies as Level 2 driving automation.
 
-#Level 2 Driving Automation – Partial Driving Automation
+# Level 2 Driving Automation – Partial Driving Automation
 Level 2 driving automation applies to vehicles with advanced driving assistance systems (ADAS) that can take over steering, acceleration, and braking in specific scenarios. But, even though Level 2 driver support can control these primary driving tasks, the driver must remain alert and is required to actively supervise the technology at all times.
 
 An example of Level 2 driving automation is Highway Driving Assist, installed in Genesis, Hyundai, and Kia vehicles. It requires the driver to have her hands on the steering wheel but actively steers, accelerates, and brakes the vehicle when traveling on highways. BlueCruise is a new hands-free partial driving automation technology from Ford. It is more sophisticated than Highway Driving Assist, allowing the driver to take her hands off of the steering wheel on specific, approved highways in the U.S. and Canada.
 
 Both of these examples of Level 2 driving automation require the driver to remain alert, engaged, and ready to take control at any time. For the record, and according to what the automaker told the state of California, Tesla’s new Full Self Driving Capability technology is a Level 2 system, and it will remain so when Autosteer for city streets arrives as an over-the-air software update.
 
-#Level 3 Driving Automation – Conditional Driving Automation
+# Level 3 Driving Automation – Conditional Driving Automation
 
 ![levels of driving automation](https://user-images.githubusercontent.com/115522470/198267491-65a568c3-61c0-47af-aa50-4ff4b7721941.jpg)
 
@@ -207,7 +207,7 @@ Audi developed a Level 3 traffic jam assistance technology for its 2019 A8 flags
 
 Other vehicles equipped with Level 3 driving automation but waiting for regulatory approval include the redesigned 2021 Mercedes-Benz S-Class and the all-new 2022 Mercedes-Benz EQS electric vehicle. The Mercedes technology is called Drive Pilot.
 
-#Level 4 Driving Automation – High Driving Automation
+# Level 4 Driving Automation – High Driving Automation
 Referred to as high-driving automation, Level 4 autonomy does not require any human interaction in the vehicle’s operation because it is programmed to stop itself in the event of system failure. Since a human driver is never needed, a Level 4 vehicle may not have a steering wheel and pedals.
 Level 4 driving automation technology is for use in driverless taxis and public transportation services. Such vehicles will be programmed to travel between Point A and Point B and restricted to specific geographic boundaries by geofencing technology. Certain conditions may limit or cancel Level 4 autonomous vehicle operation, such as severe weather.
 
