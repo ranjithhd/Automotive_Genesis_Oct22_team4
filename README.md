@@ -2,12 +2,13 @@
 
 ## Day1_activity_2
 
-Electronic control unit
+## Electronic control unit
 An electronic control unit (ECU), also known as an electronic control module (ECM), is an embedded system in automotive electronics that controls one or more of the electrical systems or subsystems in a car or other motor vehicle.
+
 Modern vehicles have many ECUs, and these can include some or all of the following: engine control module (ECM), powertrain control module (PCM), transmission control module (TCM), brake control module (BCM or EBCM), central control module (CCM), central timing module (CTM), general electronic module (GEM), body control module (BCM), and suspension control module (SCM). These ECUs together are sometimes referred to collectively as the car's computer though technically they are all separate computers, not a single one. Sometimes an assembly incorporates several individual control modules (a PCM often controls both the engine and the transmission). 
 Some modern motor vehicles have up to 150 ECUs. Embedded software in ECUs continues to increase in line count, complexity, and sophistication. Managing the increasing complexity and number of ECUs in a vehicle has become a key challenge for original equipment manufacturers (OEMs).
 
-Engine control unit (ECU)
+# Engine control unit (ECU)
 An engine control unit (ECU), also commonly called an engine control module (ECM), is a type of electronic control unit that controls a series of actuators on an internal combustion engine to ensure optimal engine performance. It does this by reading values from a multitude of sensors within the engine bay, interpreting the data using multidimensional performance maps (called lookup tables), and adjusting the engine actuators. Before ECUs, air–fuel mixture, ignition timing, and idle speed were mechanically set and dynamically controlled by mechanical and pneumatic means.
 If the ECU has control over the fuel lines, then it is referred to as an electronic engine management system (EEMS). The fuel injection system has the major role of controlling the engine's fuel supply. The whole mechanism of the EEMS is controlled by a stack of sensors and actuators.
  
