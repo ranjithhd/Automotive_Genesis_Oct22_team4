@@ -750,8 +750,8 @@ The Disadvantages of the Prototyping Model are as follows −
 | 2 | Is it possible to change the mode of braking? | No | Yes, as the mode dictates the deceleration, the ways to regenerate can be altered between maximum regeneration to even nil regeneration for the maintenance of uniform speed |
 | 3 | Brake life | Low due to large heat dissipation without any proper ways of cooling, saving, and storing | High due to consistent deceleration thereby the braking force is normally reduced while applying brakes. |
 | 4 | Environmental footprint | A large amount of heat is released during braking | Minimal in comparison to conventional mechanical braking Saves energy without the use of fossil fuels |
-| Braking increases dust | Reduces wear and tear and improves the life of the components |
-| Noise | No noise while deceleration/braking |
+|  | |Braking increases dust | Reduces wear and tear and improves the life of the components |
+| |   | Noise | No noise while deceleration/braking |
 | 5 | Cost | Low | Though initial costs are high, the cost while calculating over a period of time shows the impact of regeneration |
 | 6 | Types of vehicles that use | Gasoline cars | Almost every EV and Hybrid electric vehicle (HEV) Even conventional cars like BMW 5 series use this technology on their auxiliary power unit |
 | 7 | Maintenance | Low | High and cumbersome due to the complexities of the parts |
