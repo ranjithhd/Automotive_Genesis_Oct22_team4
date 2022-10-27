@@ -1,6 +1,6 @@
 # Automotive_Genesis_Oct22_team4
 
-## Day1_activity_2
+## Day1_activity_1
 
 ## Electronic control unit
 An electronic control unit (ECU), also known as an electronic control module (ECM), is an embedded system in automotive electronics that controls one or more of the electrical systems or subsystems in a car or other motor vehicle.
@@ -143,3 +143,38 @@ Video Resource: https://www.youtube.com/watch?v=W9ysHClUpQk
 	Manhart offers numerous exterior styling options, and the one pictured here gets an in-your-face set of gold decals and gold highlights on the wheels, as well as a black radiator grille. 
 
 	 The GLR 700 is customized with a specially crafted Manhart leather interior with individually chosen accents and an Alcantara headliner.
+
+## Day1_activity_4
+
+**Difference between Maruti Suzuki swift desire vs Nissan Terrono XV**
+
+| **Sl No** | **Specification** | **Maruti Suzuki Dzire** | **Nissan Terrano** |
+| --- | --- | --- | --- |
+| 1 | Engine Type | 1.2-litre VVT Petrol 1,197 CC | 4 Cylinders In-Line 1,461 CC |
+| 2 | Power | 89 bhp@6000 rpm | 108 bhp@3900 rpm |
+| 3 | Torque | 113 Nm@4400 rpm | 248 Nm@2250 rpm |
+|   | Dimension |
+| 4 | Length | 3,995 mm | 4,331 mm |
+|5  | Width | 1,735 mm | 1,822 mm |
+| 6| Height | 1,515 mm | 1,671 mm |
+|7 | Wheelbase | 2,450 mm | 2,673 mm |
+|8 | Ground Clearance | 163 mm | 205 mm |
+ |9 | Boot Space | 378 L | 475 L |
+|10  | No. of gears | 5 | 6 |
+| 11 | Wheel Type | Steel Wheels With Hub Cap | Alloy Wheel |
+| 12 | Front Tyre Size | 165/80 R14 | 215/65 R16 |
+| 13| Rear Tyre Size | 165/80 R14 | 215/65 R16 |
+| 14| Front Suspension | MacPherson Strut | Independent McPhearson Strut With Coil Springs & Anti-Roll Bar |
+| 15 | Rear Suspension | Torsion Beam | Torsion Beam Axle With Coil Springs & Anti-Roll Bar |
+| 16 | Mileage | 22.00 KM/L | 19.64 KM/L |
+| 17 | Fuel tank Capacity | 37.0 | 50 |
+| 18 | Steering Type | Electric Power Steering | Electro-Hydraulic Power Steering |
+| 19 | Airbags | 2 | 4 |
+| 20 | Rear Parking Sensors | N0 | yes |
+| 21 | ABS + EBD with Brake Assist | N0 | yes |
+| 22 | Electrically Adjustable Rear View Mirror | N0 | yes |
+| 23 | Height Adjustable Driver Seat | N0 | yes |
+| 24 | Light Type | LED | Halogen |
+| 25 | Front Fog Lamps | N0 | yes |
+| 26 | Bluetooth Hands-Free Phone System | N0 | yes |
+| 27 | Multi-Function Display | N0 | yes |
