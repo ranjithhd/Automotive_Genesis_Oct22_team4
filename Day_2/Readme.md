@@ -740,7 +740,7 @@ The Disadvantages of the Prototyping Model are as follows −
 
 •	The effort invested in building prototypes may be too much if it is not monitored properly.
 
-## Day2_activity_1
+## Day2_activity_3
 
 **Differences Between Conventional and Regenerative Braking**
 
@@ -755,3 +755,149 @@ The Disadvantages of the Prototyping Model are as follows −
 | 5 | Cost | Low | Though initial costs are high, the cost while calculating over a period of time shows the impact of regeneration |
 | 6 | Types of vehicles that use | Gasoline cars | Almost every EV and Hybrid electric vehicle (HEV) Even conventional cars like BMW 5 series use this technology on their auxiliary power unit |
 | 7 | Maintenance | Low | High and cumbersome due to the complexities of the parts |
+
+## Day2_activity_4
+
+# Volkswagen Polo
+
+# Specifications of Volkswagen Polo
+
+1. Mileage	18.78 km/litre
+
+2. Engine Displ.	999 cc
+
+3. Fuel Type	Petrol
+
+4. Boot Space	280 litres
+
+5. Power Windows	Yes
+
+6. Airbags	Driver frontal airbag, Front passenger frontal airba
+
+7. Central Locking	Yes
+
+8. Fog Lamps	Yes
+
+9. ABS	Yes
+
+Features of Volkswagen Polo Highline Plus 1.0 (P)  (Petrol)
+
+I)	Safety
+
+1.	Number of Airbags                           2 Airbags
+
+2.	Driver frontal airbag, Front passenger frontal airbag
+
+3.	Engine Immobilizer                           Yes
+
+4.	Parking Assistance                             Rear sensors with camera
+
+5.	Child Safety Locks                            Yes
+
+6.	Auto-Dimming Rear-View Mirror     Yes
+
+7.	Door Ajar Warning                             Yes
+
+8.	Central Locking                                   Yes
+
+9.	ABS (Anti-lock Braking System)        Yes
+
+10.	High Speed Alert System                     Yes
+
+11.	Passenger Side Seat-Belt Reminder     Yes
+
+II)	Interior
+
+12.	Power Windows                               All Windows
+
+13.	Power Steering                                  Electric Power
+
+14.	Instrument Console                            Analog + Digital
+
+15.	Multifunction Display                        Yes
+
+16.	Adjustable Steering Column               Rake, Reach
+
+17.	Multifunction Steering Wheel         
+
+18.	Sun Visor                                            Driver & Front Passenger
+
+19.	Seat Height Adjustment                     Manual Adjustment
+
+20.	Start / Stop Button                              Yes
+
+III)	Comfort
+
+21.	Audiosystem                                      CD Player with USB & Aux-in
+
+22.	Ventilation System                             Fully automatic climate control
+
+23.	Rain Sensing Wipers                          Yes
+
+24.	Boot-lid Opener                                  Internal, With Remote
+
+25.	Fuel-lid Opener                                   Push to Open
+
+26.	Cruise Control                                    Yes
+
+27.	Second Row AC Vents                      Yes
+
+28.	Adjustable Headrests                          All Rows
+
+29.	CD / MP3 / DVD Player                     Yes
+
+30.	FM Radio                                            Yes
+
+31.	Bluetooth                                             Yes
+
+32.	USB Compatibility                              Yes
+
+33.	Android Auto                                      Yes
+
+34.	Apple CarPlay                                      Yes
+
+35.	Aux-in Compatibility                            Yes
+
+36.	Infotainment Screen                             Touch Sensitive
+
+37.	Keyless Entry                                        Remote 
+
+38.	iPod Compatibility                                   Yes
+
+39.	Cargo/Boot Lights                                    Yes
+
+40.	Voice Recognition                                    Yes
+
+IV)	Instrumentation
+
+41.	Tachometer                                              Analog
+
+42.	Odometer                                                 Digital 
+
+43.	Average Fuel Consumption                     Yes
+
+44.	Average Speed                                        Yes
+
+45.	Tripmeter                                                 Yes
+
+46.	Distance to Empty                                   Yes
+
+47.	Fuel Gauge                                              Digital
+
+48.	Engine Malfunction Light                      Yes
+
+49.	Speedometer                                           Analog
+
+50.	Key Off Reminder                                 Yes
+
+51.	Headlight Reminder                               Yes
+
+52.	Low Fuel Warning                                 Yes
+
+53.	Fasten Seat Belt Warning                       Yes
+
+
+
+
+
+
