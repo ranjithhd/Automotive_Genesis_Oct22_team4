@@ -526,6 +526,8 @@ The V-Model is an extension of the waterfall model and is based on the associati
 # V-Model - Design
 Under the V-Model, the corresponding testing phase of the development phase is planned in parallel. So, there are Verification phases on one side of the ‘V’ and Validation phases on the other side. The Coding Phase joins the two sides of the V-Model.
 The following illustration depicts the different phases in a V-Model of the SDLC.
+
+![V model](https://user-images.githubusercontent.com/115522470/198277069-332b6a07-e541-453b-b8d3-db5b60bf4c01.jpg)
  
 # V-Model - Verification Phases
 There are several Verification phases in the V-Model, each of these are explained in detail below.
