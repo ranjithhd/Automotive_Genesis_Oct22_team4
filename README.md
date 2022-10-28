@@ -44,3 +44,7 @@ North America is prophesized to account for a sizeable chunk of global brake-by-
 
 Resource: https://www.marketsandmarkets.com/Market-Reports/automotive-brake-system-market-1070.html?gclid=Cj0KCQjw--2aBhD5ARIsALiRlwB0SgHrlsrQ0mIrOHpdvovLqukx_WeNjuhNmySuiHkIff_DhyWlCtcaAr-nEALw_wcB
 
+### Brake by wire system - Research 
+
+The automobile brake-by-wire (BBW) system, which is also called the electromechanical brake system, has become a promising vehicle braking control scheme that enables many new driver interfaces and enhanced performances without a mechanical or hydraulic backup. In this paper, we survey BBW control systems with focuses on fault tolerance design and vehicle braking control schemes. At first, the system architecture of BBW systems is described. Fault tolerance design is then discussed to meet the high requirements of reliability and safety of BBW systems. A widely used braking model and several braking control schemes are investigated. Although previous work focused on antilock and antislip braking controls on a single wheel basis, we present a whole-vehicle control scheme to enhance vehicle stability and safety. Simulations based on the whole-vehicle braking model validate a proposed fuzzy logic control scheme in the lateral and yaw stability controls of vehicles.
+
